@@ -5,4 +5,3 @@ document.addEventListener(
    message.innerText = 'The script ran!'
   }
 );
-
